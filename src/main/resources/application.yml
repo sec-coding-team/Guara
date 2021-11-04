@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    name: guara #DB_NAME
+    url: jdbc:mysql://db.superlkq.com:3306/guara #DB_URL
+    username: guara #DB_USERNAME
+    password: 2781372804 #DE_PASSWORD
+    driver-class-name: com.mysql.jdbc.Driver #DB_DRIVER
+
+server:
+  port: 80 #STATR_PORT
+  #port:8080
