@@ -2,7 +2,7 @@
 
 ## Guara
 
-![[object Object]](https://socialify.git.ci/2ndElemet/Guara/image?description=1&font=Inter&forks=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2F2ndElemet%2FGuara%2Fff69fe67f29255f66e47f0ae19edfce8d6133e42%2FIcons%2FLogo_Guara.png&pattern=Overlapping%20Hexagons&stargazers=1&theme=Light)
+[![[object Object]](https://socialify.git.ci/2ndElemet/Guara/image?description=1&font=Inter&forks=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2F2ndElemet%2FGuara%2Fff69fe67f29255f66e47f0ae19edfce8d6133e42%2FIcons%2FLogo_Guara.png&pattern=Overlapping%20Hexagons&stargazers=1&theme=Light)](https://github.com/2ndElemet/Guara/stargazers)
 
 </div>
 
