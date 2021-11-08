@@ -1,7 +1,7 @@
 package com.second.guara.service;
 
-import com.second.guara.entity.Response;
+import com.second.guara.entity.response.Response;
 
 public interface UserService {
-    Response login(String username, String password);
+    Object login(String username, String password);
 }

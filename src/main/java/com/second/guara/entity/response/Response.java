@@ -1,9 +1,17 @@
-package com.second.guara.entity;
+package com.second.guara.entity.response;
 
 public class Response {
+    private boolean flag;
     private int code;
-    private String token;
     private String message;
+    private RespondData data;
+    public boolean isFlag() {
+        return flag;
+    }
+
+    public void setFlag(boolean flag) {
+        this.flag = flag;
+    }
 
     public int getCode() {
         return code;
@@ -11,14 +19,6 @@ public class Response {
 
     public void setCode(int code) {
         this.code = code;
-    }
-
-    public String getToken() {
-        return token;
-    }
-
-    public void setToken(String token) {
-        this.token = token;
     }
 
     public String getMessage() {
@@ -29,9 +29,10 @@ public class Response {
         this.message = message;
     }
 
-    public Response(int code, String token, String message) {
+    public Response(boolean flag, int code, String message, RespondData data) {
+        this.flag = flag;
         this.code = code;
-        this.token = token;
         this.message = message;
+        this.data = data;
     }
 }
