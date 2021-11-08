@@ -29,6 +29,14 @@ public class Response {
         this.message = message;
     }
 
+    public RespondData getData() {
+        return data;
+    }
+
+    public void setData(RespondData data) {
+        this.data = data;
+    }
+
     public Response(boolean flag, int code, String message, RespondData data) {
         this.flag = flag;
         this.code = code;

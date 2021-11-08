@@ -29,6 +29,7 @@ public class RespondData {
         this.token = token;
     }
 
+
     public RespondData(int userid, String nickname, String token) {
         this.userid = userid;
         this.nickname = nickname;
