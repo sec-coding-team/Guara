@@ -33,8 +33,5 @@
 [总体规划](Process/总体规划.md)
 
 ## About API
-<<<<<<< HEAD
-<a href="https://space-5qn8e2.w.eolink.com/share/index?shareCode=aYCM1h" target="_blank">API</a>
-=======
-[LoginAPI](https://github.com/2ndElemet/Guara/blob/master/API/Login.md)
->>>>>>> parent of 73f909f (Update README.md)
+[API](https://space-5qn8e2.w.eolink.com/share/index?shareCode=aYCM1h)
+
